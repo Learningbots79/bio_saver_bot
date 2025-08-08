@@ -37,7 +37,7 @@ Built with 💓 for learning and open-source contribution.
 ```bash
 
 # 1. Clone the repo
-git clone git clone https://github.com/learningbots79/bio_saver_bot.git
+git clone https://github.com/learningbots79/bio_saver_bot.git
 cd bio_saver_bot.git
 
 # 2. Install dependencies
